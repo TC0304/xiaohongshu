@@ -1,5 +1,5 @@
 # xiaohongshu
-1. Install corresponding webdriver accoording to broswer verision.
+1. Install corresponding webdriver according to broswer verision.
 
 2. Input search keyword, run get_xiaohongshu_link to get the link of posts, which will create a csv file.
 ![image](https://github.com/user-attachments/assets/121cc9f0-8cb1-4184-8c50-0a5abb49320f)
